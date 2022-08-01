@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pujanisgreat
 - 👀 I’m interested in coding python
 - 🌱 I’m currently learning python to become professional in coding 
-- 💞️ I’m looking to collaborate on hypixel skyblock (Minecraft)
+- 💞️ I’m looking to collaborate on upwork
 - 📫 How to reach me gamingfury317@gmail.com
 
 <!---
